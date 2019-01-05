@@ -1,4 +1,4 @@
-# fast-cache
+# fast-cache 
 
 短小精悍的前端缓存工具，防止内存“侧漏”
 
@@ -14,10 +14,10 @@
 
 简单接入的文档
 
-- 使用文档
-- 二次开发文档
+- [使用文档](./doc/use/README.md)
+- [二次开发文档](./doc/dev/READMA.md)
 
-##交流&提问（）
+## 交流 & 提问（）
 
 https://github.com/luoxiaori/fast-cache/issues
 
